@@ -33,5 +33,5 @@ jobs:
           file: ./dockerfile.v1
           push: true
           tags: |
-            Crimsey/projekt2:v1
+            crimsey/projekt2:v1
           
